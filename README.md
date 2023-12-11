@@ -1,8 +1,24 @@
 ### Hi there 👋
 
-I'm Zubeir from Orange County, California. I enjoy learning but specifically learning within Python and Data Science. I try to take on fun projects that I can further learn about a topic, make predictions aboure my interests, or create models for things I like to write about in my substack here: ttfd.substack.com or on my linkedin here: https://www.linkedin.com/in/zubeir-said/.
+### Hi there 👋, Zubeir Said
+#### Data and Development
+![Data and Development](https://media.licdn.com/dms/image/D4E16AQF2_esi07RZ1Q/profile-displaybackgroundimage-shrink_350_1400/0/1693416444584?e=1707955200&v=beta&t=o3wrQgNzBrk7ZF__fFwhmcnAmATCTPen1lIQHy6QijE)
+
+I'm Zubeir from Orange County, California. I enjoy learning but specifically within Python and data science. I try to take on fun projects that I can further learn about a topic, make predictions about my interests, or create models for things I like to write about in my substack here: ttfd.substack.com or on my LinkedIn here: https://www.linkedin.com/in/zubeir-said/.
+
+
+
+Skills: Python | Scikit-Learn| PySpark | PyTorch | JS | Django
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zubz21)](https://github.com/Zubz21/github-readme-stats)
+
+
 <!--
 **Zubz21/Zubz21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
