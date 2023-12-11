@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Zubeir from Orange County, California. I enjoy learning but specifically learning within Python and Data Science. I try to take on fun projects that I can further learn about a topic, make predictions aboure my interests, or create models for things I like to write about in my substack here: ttfd.substack.com or on my linkedin here: https://www.linkedin.com/in/zubeir-said/.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zubz21)](https://github.com/Zubz21/github-readme-stats)
 <!--
 **Zubz21/Zubz21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
