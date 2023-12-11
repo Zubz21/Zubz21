@@ -2,8 +2,7 @@
 #### Data and Development
 ![Data and Development](https://media.licdn.com/dms/image/D4E16AQF2_esi07RZ1Q/profile-displaybackgroundimage-shrink_350_1400/0/1693416444584?e=1707955200&v=beta&t=o3wrQgNzBrk7ZF__fFwhmcnAmATCTPen1lIQHy6QijE)
 
-I'm Zubeir from Orange County, California. I enjoy learning but specifically within Python and data science. I try to take on fun projects that I can further learn about a topic, make predictions about my interests, or create models for things I like to write about in my substack here: ttfd.substack.com or on my LinkedIn here: https://www.linkedin.com/in/zubeir-said/.
-
+I'm Zubeir from Orange County, California. I enjoy learning but specifically within Python and data science. I try to take on fun projects that I can further learn about a topic, make predictions about my interests, or create models for things I like to write about in my substack titled "Take That For Data" and on my LinkedIn. 
 
 
 Skills: Python | Scikit-Learn| PySpark | PyTorch | JS | Django
